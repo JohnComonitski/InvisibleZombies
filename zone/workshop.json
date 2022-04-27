@@ -1,0 +1,9 @@
+{
+    "Description": "All zombies will randomly become invisible for one minute for all players except for 1 player on the map. The zombies function like normal, they're just invisible. The challenge is, how well can you survive when only one 1 player is able to see the zombies.\r\n\r\nTo activate the challenge, have one player hold the USE (F, X or Square) and JUMP (SPACE, A or X) button for 10 seconds to start the game! After round 1, you will not be able to start the challenge.\r\n\r\nThe mods runs best on maps featuring dogs (The Giant and DE) since the mod utilizes a few dog effects and sound effects.\r\n\r\nNote: While multiple players can start the challenge, I advise you to just have one player start the challenge, to avoid multiple instance of the challenge running at once and causing it to be buggy.",
+    "FolderName": "invisible_zombies",
+    "PublisherID": "2610409757",
+    "Tags": "Mod,WIP,Zombies",
+    "Thumbnail": "",
+    "Title": "Invisible Zombies Mode",
+    "Type": "mod"
+}
